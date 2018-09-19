@@ -1,0 +1,7 @@
+D:\My Tasks\Practice\12th_Sep2018\bin\Debug\12th_Sep2018.exe.config
+D:\My Tasks\Practice\12th_Sep2018\bin\Debug\12th_Sep2018.exe
+D:\My Tasks\Practice\12th_Sep2018\bin\Debug\12th_Sep2018.pdb
+D:\My Tasks\Practice\12th_Sep2018\obj\Debug\12th_Sep2018.csproj.CoreCompileInputs.cache
+D:\My Tasks\Practice\12th_Sep2018\obj\Debug\12th_Sep2018.exe
+D:\My Tasks\Practice\12th_Sep2018\obj\Debug\12th_Sep2018.pdb
+D:\My Tasks\Practice\12th_Sep2018\obj\Debug\12th_Sep2018.csprojAssemblyReference.cache

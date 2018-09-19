@@ -1,0 +1,11 @@
+D:\My Tasks\Operators\Operators\obj\Debug\Operators.csprojAssemblyReference.cache
+D:\My Tasks\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\My Tasks\Operators\Operators\bin\Debug\Operators.exe.config
+D:\My Tasks\Operators\Operators\bin\Debug\Operators.exe
+D:\My Tasks\Operators\Operators\bin\Debug\Operators.pdb
+D:\My Tasks\Operators\Operators\obj\Debug\Operators.exe
+D:\My Tasks\Operators\Operators\obj\Debug\Operators.pdb
+D:\My Tasks\Practice\4th_Sep2018\Operators\obj\Debug\Operators.csprojAssemblyReference.cache
+D:\My Tasks\Practice\4th_Sep2018\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\My Tasks\Practice\4th_Sep2018\Operators\obj\Debug\Operators.exe
+D:\My Tasks\Practice\4th_Sep2018\Operators\obj\Debug\Operators.pdb

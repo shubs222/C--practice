@@ -1,0 +1,7 @@
+C:\Users\arvind.torvi\source\repos\FirstTask\FirstTask\bin\Debug\FirstTask.exe.config
+C:\Users\arvind.torvi\source\repos\FirstTask\FirstTask\bin\Debug\FirstTask.exe
+C:\Users\arvind.torvi\source\repos\FirstTask\FirstTask\bin\Debug\FirstTask.pdb
+C:\Users\arvind.torvi\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.csprojAssemblyReference.cache
+C:\Users\arvind.torvi\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\arvind.torvi\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.exe
+C:\Users\arvind.torvi\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.pdb
